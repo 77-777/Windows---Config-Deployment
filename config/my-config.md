@@ -5,9 +5,9 @@
 ## Common Steps
 
 1. Login into user account.
-2. Deploy keepass db.
-3. Deploy cygwin bash library & profile.
-4. Deploy my icons.
+2. **Deploy keepass db.**
+3. **Deploy cygwin bash library & profile.**
+4. **Deploy my icons.**
 5. Update system.
 6. Install drivers.
 
