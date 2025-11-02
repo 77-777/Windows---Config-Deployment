@@ -2,6 +2,11 @@
 
 > On a fresh installation of Windows.
 
+> It is recommended after 2.5 years, to make a new user and "move there". [after typical maintenance like clearing cache, etc]
+> It is recommended after 5 years to reinstall the OS.
+
+> Configure firewall for a whitelist.
+
 ## Common Steps
 
 1. Login into user account.
