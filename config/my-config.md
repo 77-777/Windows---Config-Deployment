@@ -10,6 +10,8 @@
 
 > Security: Configure firewall for a whitelist.
 
+> Adjust performance settings from Advanced System Settings (right of Right Click Computer, Properties) something panel.
+
 ---
 
 ## Common Steps
