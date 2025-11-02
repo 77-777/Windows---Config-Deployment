@@ -4,11 +4,11 @@
 
 ---
 
-> It is recommended after 2.5 years, to make a new user and "move there". [after typical maintenance like clearing cache, etc]
+> Performance: It is recommended after 2.5 years, to make a new user and "move there". [after typical maintenance like clearing cache, etc]
 
-> It is recommended after 5 years to reinstall the OS.
+> Performance: It is recommended after 5 years to reinstall the OS.
 
-> Configure firewall for a whitelist.
+> Security: Configure firewall for a whitelist.
 
 ---
 
