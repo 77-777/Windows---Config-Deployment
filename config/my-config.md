@@ -14,6 +14,24 @@
 
 ---
 
+## Chocolatey Script
+
+```powershell
+
+## In order of importance and frequency
+
+choco install veracrypt keepass vlc deluge firefox
+choco install googlechrome hexchat winrar gimp atom
+choco install notepadplusplus steam handbrake cherrytree libreoffice
+choco install calibre adobereader 7z idrive freedownloadmanager
+
+choco install imagemagick caesium freemind qtox
+choco install anki blender inkscape krita audacity obs-studio 
+choco install virtualbox yacreader anydesk filezilla quiterss winscp wireshark
+choco install codeblocks staruml clonespy cygwin pdfsam
+
+```
+
 ## Common Steps
 
 1. Login into user account.
