@@ -36,6 +36,7 @@ choco install vcredist2005 vcredist2008 vcredist2010 vcredist2012 vcredist2013 v
 choco install javaruntime jdk8 dotnet directx
 choco install sdio # driver manager
 
+choco install azahar dolphin desmume
 choco install ruby nodejs python netbeans visualstudio2022community sqlitebrowser eclipse
 
 # Other
