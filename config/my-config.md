@@ -30,7 +30,7 @@ choco install anki blender inkscape krita audacity obs-studio
 choco install virtualbox yacreader anydesk filezilla quiterss winscp wireshark
 choco install codeblocks staruml clonespy cygwin pdfsam
 
-# choco install java directx msvc-redist drivers clonespy rocketdock
+# choco install java .net directx msvc-redist drivers clonespy rocketdock
 
 # Other
 
