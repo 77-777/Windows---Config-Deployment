@@ -25,8 +25,8 @@ choco install googlechrome hexchat vlc steam libreoffice-fresh
 choco install notepadplusplus thunderbird handbrake cherrytree gimp
 choco install calibre adobereader 7zip idrive freedownloadmanager
 
-choco install imagemagick caesium freemind qtox atom
-choco install anki blender inkscape krita audacity obs-studio 
+choco install imagemagick caesium.install freemind qtox atom
+choco install anki blender inkscape krita audacity obs-studio
 choco install virtualbox yacreader anydesk filezilla quiterss winscp wireshark
 choco install codeblocks staruml clonespy cygwin pdfsam
 
