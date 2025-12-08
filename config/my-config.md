@@ -30,11 +30,11 @@ choco install anki blender inkscape krita audacity obs-studio
 choco install virtualbox yacreader anydesk filezilla quiterss winscp wireshark
 choco install codeblocks staruml clonespy cygwin pdfsam
 
-# choco install java .net directx msvc-redist drivers clonespy rocketdock
+# choco install java .net directx msvc-redist drivers
 
 # Other
 
-choco install windirstat anydesk element texmaker gitbash
+choco install windirstat anydesk element texmaker gitbash clonespy rocketdock
 ```
 
 ## Common Steps
