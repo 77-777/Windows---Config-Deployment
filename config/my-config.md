@@ -29,19 +29,24 @@ choco install calibre adobereader 7zip idrive freedownloadmanager
 choco install imagemagick caesium.install freemind qtox atom
 choco install anki blender inkscape krita audacity obs-studio
 choco install virtualbox yacreader filezilla quiterss winscp wireshark
-choco install codeblocks staruml clonespy cygwin pdfsam
+choco install codeblocks staruml clonespy cygwin pdfsam transmission
 
 # choco install vcredist-all
 choco install vcredist2005 vcredist2008 vcredist2010 vcredist2012 vcredist2013 vcredist140 vcredist2015 vcredist2017  -y
 choco install javaruntime jdk8 dotnet directx
 choco install sdio # driver manager
 
-choco install azahar dolphin desmume
+choco install azahar dolphin desmume ppsspp
 choco install ruby nodejs python netbeans visualstudio2022community sqlitebrowser eclipse
 
 # Other
 
-choco install windirstat anydesk element-desktop teamviewer texmaker git.install rocketdock cpu-z pcloud dropbox
+choco install windirstat anydesk element-desktop teamviewer texmaker git.install rocketdock cpu-z pcloud dropbox pidgin lmms openshot meld googlejapaneseinput
+
+# choco install ubooquity jellyfin
+
+## emby? not found on repo.
+
 ```
 
 ## Common Steps
