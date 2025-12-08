@@ -22,15 +22,19 @@
 
 choco install veracrypt keepass deluge firefox winrar
 choco install googlechrome hexchat vlc steam libreoffice
-choco install notepadplusplus atom handbrake cherrytree gimp
+choco install notepadplusplus thunderbird handbrake cherrytree gimp
 choco install calibre adobereader 7z idrive freedownloadmanager
 
-choco install imagemagick caesium freemind qtox
+choco install imagemagick caesium freemind qtox atom
 choco install anki blender inkscape krita audacity obs-studio 
 choco install virtualbox yacreader anydesk filezilla quiterss winscp wireshark
 choco install codeblocks staruml clonespy cygwin pdfsam
 
-#choco install java directx msvc-redist drivers
+# choco install java directx msvc-redist drivers clonespy rocketdock
+
+# Other
+
+choco install windirstat anydesk element texmaker gitbash
 ```
 
 ## Common Steps
