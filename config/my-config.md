@@ -41,7 +41,7 @@ choco install ruby nodejs python netbeans visualstudio2022community sqlitebrowse
 
 # Other
 
-choco install windirstat anydesk element-desktop teamviewer texmaker git.install rocketdock cpu-z
+choco install windirstat anydesk element-desktop teamviewer texmaker git.install rocketdock cpu-z pcloud dropbox
 ```
 
 ## Common Steps
