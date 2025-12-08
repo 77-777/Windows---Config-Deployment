@@ -21,7 +21,7 @@
 ## In order of importance and frequency
 
 choco install veracrypt keepass deluge firefox winrar
-choco install googlechrome hexchat vlc steam libreoffice
+choco install googlechrome hexchat vlc steam libreoffice-fresh
 choco install notepadplusplus thunderbird handbrake cherrytree gimp
 choco install calibre adobereader 7z idrive freedownloadmanager
 
