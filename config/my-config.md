@@ -31,6 +31,8 @@ choco install anki blender inkscape krita audacity obs-studio
 choco install virtualbox yacreader filezilla quiterss winscp wireshark
 choco install codeblocks staruml clonespy cygwin pdfsam transmission
 
+---
+
 # choco install vcredist-all
 choco install vcredist2005 vcredist2008 vcredist2010 vcredist2012 vcredist2013 vcredist140 vcredist2015 vcredist2017  -y
 choco install javaruntime jdk8 dotnet directx
