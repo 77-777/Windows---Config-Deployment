@@ -43,7 +43,9 @@ choco install ruby nodejs python netbeans visualstudio2022community sqlitebrowse
 
 choco install windirstat anydesk element-desktop teamviewer texmaker git.install rocketdock cpu-z pcloud dropbox pidgin lmms openshot meld googlejapaneseinput
 
-# choco install ubooquity jellyfin
+## Will work, but prefer to install manually
+
+choco install ubooquity jellyfin
 
 ## emby? not found on repo.
 
