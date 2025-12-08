@@ -23,7 +23,7 @@
 choco install veracrypt keepass deluge firefox winrar
 choco install googlechrome hexchat vlc steam libreoffice-fresh
 choco install notepadplusplus thunderbird handbrake cherrytree gimp
-choco install calibre adobereader 7z idrive freedownloadmanager
+choco install calibre adobereader 7zip idrive freedownloadmanager
 
 choco install imagemagick caesium freemind qtox atom
 choco install anki blender inkscape krita audacity obs-studio 
@@ -34,7 +34,7 @@ choco install codeblocks staruml clonespy cygwin pdfsam
 
 # Other
 
-choco install windirstat anydesk element texmaker gitbash clonespy rocketdock
+choco install windirstat anydesk element texmaker gitbash clonespy rocketdock cpu-z
 ```
 
 ## Common Steps
