@@ -35,7 +35,7 @@ choco install codeblocks staruml clonespy cygwin pdfsam
 
 # Other
 
-choco install windirstat anydesk element-desktop teamviewer texmaker gitbash clonespy rocketdock cpu-z
+choco install windirstat anydesk element-desktop teamviewer texmaker git.install clonespy rocketdock cpu-z
 ```
 
 ## Common Steps
