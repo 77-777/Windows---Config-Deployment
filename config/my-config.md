@@ -18,7 +18,8 @@
 
 ```powershell
 
-## In order of importance and frequency. Tested the commands.
+## In order of importance and frequency.
+## Commands are tested.
 
 choco install veracrypt keepass deluge firefox winrar
 choco install googlechrome hexchat vlc steam libreoffice-fresh
