@@ -31,7 +31,9 @@ choco install anki blender inkscape krita audacity obs-studio
 choco install virtualbox yacreader filezilla quiterss winscp wireshark
 choco install codeblocks staruml clonespy cygwin pdfsam
 
-# choco install java .net directx msvc-redist drivers
+choco install vcredist2005 vcredist2008 vcredist2010 vcredist2012 vcredist2013 vcredist140 -y
+choco install javaruntime jdk8 dotnet directx
+choco install sdio # driver manager
 
 # Other
 
