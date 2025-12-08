@@ -41,6 +41,7 @@ choco install ruby nodejs python netbeans visualstudio2022community sqlitebrowse
 
 # Other
 
+## texmaker needs miktek installed manually or automatically [texlive]
 choco install windirstat anydesk element-desktop teamviewer texmaker git.install rocketdock cpu-z pcloud dropbox pidgin lmms openshot meld googlejapaneseinput
 
 ## Will work, but prefer to install manually
