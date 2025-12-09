@@ -21,7 +21,7 @@
 ## In order of importance and frequency.
 ## Commands are tested.
 
-choco install veracrypt keepass deluge firefox winrar
+choco install veracrypt keepass deluge firefox winrar open-shell
 choco install googlechrome hexchat vlc steam libreoffice-fresh
 choco install notepadplusplus thunderbird handbrake cherrytree gimp
 choco install calibre adobereader 7zip idrive freedownloadmanager
@@ -52,6 +52,67 @@ choco install rocketdock cpu-z pcloud dropbox pidgin lmms openshot meld googleja
 choco install ubooquity jellyfin
 
 ## emby? not found on repo.
+
+```
+
+## Powershell Script
+
+```
+
+## VARIABLE_USER
+
+## Extracting User Data
+## Don't forget to close the applications before copying to not get "is in use" error.
+
+## Hexchat
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Roaming\HexChat" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Roaming" -Recurse -Force
+# Local N/A
+
+## qTox
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Roaming\tox" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Roaming" -Recurse -Force
+# Local N/A
+
+## Veracrypt
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Roaming\VeraCrypt" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Roaming" -Recurse -Force
+# Local N/A
+
+## Thunderbird
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Roaming\Thunderbird" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Roaming" -Recurse -Force
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\Thunderbird" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Local" -Recurse -Force
+
+## Firefox
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Roaming\Mozilla" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Roaming" -Recurse -Force
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\Mozilla" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Local" -Recurse -Force
+
+## Google Chrome
+# Roaming N/A
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\Google" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Local" -Recurse -Force
+
+## QuiteRSS
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Roaming\QuiteRss" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Roaming" -Recurse -Force
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\QuiteRss" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Local" -Recurse -Force
+
+## IDrive
+# Roaming N/A
+# Local N/A
+Copy-Item -Path "C:\ProgramData\IDrive" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\ProgramData" -Recurse -Force
+
+## Deluge (only if needed)
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Roaming\deluge" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Roaming" -Recurse -Force
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\QuiteRss" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Local" -Recurse -Force
+
+## YACReader (only if needed)
+# Roaming N/A
+Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Local" -Recurse -Force
+
+## Gnu4Win (if needed)
+# ... TODO
+
+---
+
+## Applying User Data
+
+...TODO.
 
 ```
 
