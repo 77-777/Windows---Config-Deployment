@@ -99,7 +99,7 @@ Copy-Item -Path "C:\ProgramData\IDrive" -Destination "C:\Users\rijndael-box\Down
 
 ## Deluge (only if needed)
 Copy-Item -Path "C:\Users\rijndael-box\AppData\Roaming\deluge" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Roaming" -Recurse -Force
-Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\QuiteRss" -Destination "C:\Users\rijndael-box\Downloads\Extracted_Appdata\Local" -Recurse -Force
+# Local N/A
 
 ## YACReader (only if needed)
 # Roaming N/A
