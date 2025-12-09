@@ -29,7 +29,7 @@ choco install calibre adobereader 7zip idrive freedownloadmanager
 choco install imagemagick caesium.install freemind qtox atom
 choco install anki blender inkscape krita audacity obs-studio
 choco install virtualbox yacreader filezilla quiterss winscp wireshark
-choco install codeblocks staruml clonespy cygwin pdfsam transmission
+choco install codeblocks staruml clonespy cygwin pdfsam transmission gpg4win
 
 ---
 
