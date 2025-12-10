@@ -21,7 +21,7 @@
 ## In order of importance and frequency.
 ## Commands are tested.
 
-choco install veracrypt keepass deluge firefox winrar open-shell
+choco install veracrypt keepass deluge firefox winrar open-shell powershell-core # powershell 7+
 choco install googlechrome hexchat vlc steam libreoffice-fresh
 choco install notepadplusplus thunderbird handbrake cherrytree gimp
 choco install calibre adobereader 7zip idrive freedownloadmanager
