@@ -183,7 +183,8 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 
 ## UI/UX
 
-...
+* Hide the search box in the taskbar.
+* Align the start menu to the left.
 
 ## Privacy
 
