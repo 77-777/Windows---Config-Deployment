@@ -139,6 +139,8 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 
 * Separate users into USER and ROOT.
 * Have root by convention a black/blue solid wallpaper.
+* Separate your partitions from the System partition.
+* Avoid keeping your data on the machine; preferably store it on external drives or usbs.
 
 ## Optimizations
 
@@ -178,8 +180,6 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 * Set file manager to start with devices and drives rather than Home.
 * Pin to favourites frequently accessed folder locations you know of.
 * Make recycle bin ask for confirmation of deletion.
-
-...
 
 ## UI/UX
 
