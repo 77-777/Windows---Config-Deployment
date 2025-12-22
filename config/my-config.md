@@ -135,6 +135,11 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 6. Install redist, directx, java, .net, etc.
 7. The rest.
 
+## Good Practice
+
+* Separate users into USER and ROOT.
+* Have root by convention a black/blue solid wallpaper.
+
 ## Optimizations
 
 * Disable Memory Compression
@@ -172,6 +177,7 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 
 * Set file manager to start with devices and drives rather than Home.
 * Pin to favourites frequently accessed folder locations you know of.
+* Make recycle bin ask for confirmation of deletion.
 
 ...
 
