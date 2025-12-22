@@ -134,3 +134,28 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 5. Install veracrypt.
 6. Install redist, directx, java, .net, etc.
 7. The rest.
+
+## Optimizations
+
+* Disable Memory Compression
+* Increase Pagefile size
+* Avoid running out of space on the system/os partition
+* Partition away from the OS.
+* Disable QoS
+* Disable Unnecessary Processes
+* Disable Unnecessary Services
+* Debloat by uninstalling unnecessary software
+* Change Performance Settings
+* Disable Automatic Updates
+* Disable Windows Defender
+* Apply a firewall whitelist
+* Disable Disk Drive Protection (Bitlocker)
+* Disable Telemetry
+* Disable Storage Sense
+* Disable Harware Controls for Edge and Other
+* Disable other features [cortana]
+* Disable search indexer
+* Disable animations.
+* Run explorer.exe with gpu rendering.
+* Battery Performance Mode to High if needed.
+* Turn off bloated software.
