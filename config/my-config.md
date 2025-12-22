@@ -170,8 +170,15 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 
 ## Quality of Life
 
+* Set file manager to start with devices and drives rather than Home.
+* Pin to favourites frequently accessed folder locations you know of.
+
 ...
 
 ## UI/UX
 
 ...
+
+## Privacy
+
+Folder options - disable the three options for recently used files, and frequently used folders.
