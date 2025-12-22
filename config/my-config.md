@@ -159,3 +159,7 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 * Run explorer.exe with gpu rendering.
 * Battery Performance Mode to High if needed.
 * Turn off bloated software.
+* Group policy editor
+* Control panel
+* Registry.
+* Power settings.
