@@ -166,3 +166,12 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 * Per application optimization (e.g browser, etc) - adblock, etc.
 * Process IO/Queue prioritization.
 * Appropriate Drivers.
+
+
+## Quality of Life
+
+...
+
+## UI/UX
+
+...
