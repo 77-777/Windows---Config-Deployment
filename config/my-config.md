@@ -185,6 +185,7 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 
 * Hide the search box in the taskbar.
 * Align the start menu to the left.
+* Don't set 1920x1080 resolution for desktop. Use 1600x800 and scale it to 100% instead of 125%.
 
 ## Privacy
 
