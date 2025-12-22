@@ -188,4 +188,9 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 
 ## Privacy
 
-Folder options - disable the three options for recently used files, and frequently used folders.
+* Folder options - disable the three options for recently used files, and frequently used folders.
+
+## Other
+
+* A microsoft account is needed [make it on the spot if necessary] to make a "main" user.
+  * Can create local ones afterwards. Delete the main one after.
