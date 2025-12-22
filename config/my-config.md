@@ -195,3 +195,5 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 
 * A microsoft account is needed [make it on the spot if necessary] to make a "main" user.
   * Can create local ones afterwards. Delete the main one after.
+  
+* Set power settings to never sleep. Good for 24/7 running.
