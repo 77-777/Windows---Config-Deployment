@@ -159,7 +159,7 @@ So, here's how I should set up permissions:
 ---
 
 OWNER: Root - for all the partitions you want to change.
-Permissions: Root, Rijndael-box, SYSTEM. //alternatively, "Root" can be replaced with ADMINISTRATORS.
+Permissions: Root, Rijndael-box, SYSTEM. //alternatively, "Root" can be replaced with ADMINISTRATORS. Other tokens that exist for flexibility if needed: Authenticated Users, Users. Other owners that exist: TrustedInstaller.
 
 Tick the "Replace owners objects" [at the top, in main panel] and "Replace all child object permission entries with inheritable permissions etc". [at the bottom, in main panel]. DO not tick the "Only apply these permissions to objects and/or containers within this container. [when you Add a permission with the Add button].
 
