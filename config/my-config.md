@@ -142,6 +142,27 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 * Separate your partitions from the System partition.
 * Avoid keeping your data on the machine; preferably store it on external drives or usbs.
 
+## Permissions
+
+Some notes on how Windows permissions work:
+
+First, **ensure you change permissions (usually) from a root/admin account.**
+
+Second, when you right click and Properties, fuck the Edit button at the top/center. Go to **Advanced Settings** to set permissions. That is the main panel for everything.
+
+Third - the OWNER of an entity, pretty much defines the POWER of who can change permissions of said entities.
+      - the PERMISSIONS are WHO can access this object/entity. And for the OWNER itself to have access, he needs to be in the permissions.
+
+Now. Another note- IDrive NEEDS access from SYSTEM to work, otherwise it cannot scan the files for backup, even if you run it as a user which has permission.
+So, here's how I should set up permissions:
+
+---
+
+OWNER: Root - for all the partitions you want to change.
+Permissions: Root, Rijndael-box, SYSTEM. //alternatively, "Root" can be replaced with ADMINISTRATORS.
+
+Tick the "Replace owners objects" [at the top, in main panel] and "Replace all child object permission entries with inheritable permissions etc". [at the bottom, in main panel]. DO not tick the "Only apply these permissions to objects and/or containers within this container. [when you Add a permission with the Add button].
+
 ## Optimizations
 
 * Disable Memory Compression
