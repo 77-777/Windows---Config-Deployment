@@ -137,7 +137,7 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 
 ## Good Practice
 
-* Separate users into USER and ROOT. **Make sure the Security questions are not as simple as 123, 456... as it can be guessed and this is a huge risk.**
+* Separate users into USER and ROOT. **Make sure the Security questions are not as simple as 123, 456... as it can be guessed and this is a huge risk. At least scramble them (mash the keyboard) if you don't care about them.**
 * Have root by convention a black/blue solid wallpaper.
 * Separate your partitions from the System partition.
 * Avoid keeping your data on the machine; preferably store it on external drives or usbs.
