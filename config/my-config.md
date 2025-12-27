@@ -185,7 +185,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 * Apply a firewall whitelist
 * Disable Telemetry
 * Disable Harware Controls for Edge and Other
-* Disable other features [copilot [cortana is gone]]
+* Disable other features [copilot, onedrive, etc [cortana is gone]]
 * Disable search indexer
 * Disable animations.
 * Run explorer.exe with gpu rendering.
