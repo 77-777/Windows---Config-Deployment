@@ -174,7 +174,15 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 * Increase Pagefile size
 * Avoid running out of space on the system/os partition
 * Partition away from the OS.
+
+---
+
+* Apply a firewall whitelist
 * Disable QoS
+* Disable Hardware Controls for Edge and Other
+
+---
+
 * Disable Unnecessary Processes
 * Disable Unnecessary Services
 * Debloat by uninstalling unnecessary software
@@ -182,9 +190,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 * Disable Windows Features and Services [in Uninstall; like Ms Edge]
 * Disable Automatic Updates
 * Disable Windows Defender
-* Apply a firewall whitelist
 * Disable Telemetry
-* Disable Harware Controls for Edge and Other
 * Disable other features [copilot, onedrive, etc [cortana is gone]]
 * Disable search indexer
 * Disable animations.
