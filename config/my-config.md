@@ -169,6 +169,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 * Disable Disk Drive Protection (Bitlocker)
 * Disable Storage Sense
 
+---
 
 * Increase Pagefile size
 * Avoid running out of space on the system/os partition
