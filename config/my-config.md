@@ -211,6 +211,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 ## Privacy
 
 * Folder options - disable the three options for recently used files, and frequently used folders.
+* Personalization -> Start -> 4 options to disable here.
 
 ## Other
 
