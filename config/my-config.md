@@ -166,6 +166,10 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 ## Optimizations
 
 * Disable Memory Compression
+* Disable Disk Drive Protection (Bitlocker)
+* Disable Storage Sense
+
+
 * Increase Pagefile size
 * Avoid running out of space on the system/os partition
 * Partition away from the OS.
@@ -174,12 +178,11 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 * Disable Unnecessary Services
 * Debloat by uninstalling unnecessary software
 * Change Performance Settings
+* Disable Windows Features and Services [in Uninstall; like Ms Edge]
 * Disable Automatic Updates
 * Disable Windows Defender
 * Apply a firewall whitelist
-* Disable Disk Drive Protection (Bitlocker)
 * Disable Telemetry
-* Disable Storage Sense
 * Disable Harware Controls for Edge and Other
 * Disable other features [cortana]
 * Disable search indexer
