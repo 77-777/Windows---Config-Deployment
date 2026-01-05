@@ -215,6 +215,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 ## UI/UX
 
 * Hide the search box in the taskbar.
+* Disable widgets to not show news icon in taskbar.
 * Align the start menu to the left.
 * Don't set 1920x1080 resolution for desktop. Use 1600x800 and scale it to 100% instead of 125%.
 
