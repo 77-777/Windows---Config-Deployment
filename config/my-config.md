@@ -252,3 +252,40 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
   * Can create local ones afterwards. Delete the main one after.
   
 * Set power settings to never sleep. Good for 24/7 running.
+
+---
+
+## Data Resiliency and RAID
+
+> ZFS and ReFS
+
+## ZFS
+
+* **vdevs** (virtual devices) [main concept] are sets of multiple physical disks.
+  * pool is constructed to have multiple vdevs.
+    * datasets (special dirs) [partition analogy]
+    * zvols for block devices
+
+## ReFS
+
+* Storage Spaces **Pool** [full set of physical devices]
+  * Virtual Disk [subset of devices from the full set with config] {aka, the "storage space"}
+    * Volumes {the partition itself}
+      * Filesystem (ReFs)
+
+## RAID
+
+### Most common/simple types.
+
+* Raid0 -
+* Raid1 - 
+
+### For lots of parallelization
+
+...
+
+## Concepts
+
+> Parity - "essentially" pieces of data to reconstruct lost blocks. It's a "cheap" mirroring.
+> Mirror - a full redundant copy to reconstruct failures, corruption, lost data from.
+
