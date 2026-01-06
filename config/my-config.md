@@ -163,7 +163,7 @@ Permissions: Root, Rijndael-box, SYSTEM. //alternatively, "Root" can be replaced
 
 Tick the "Replace owners objects" [at the top, in main panel] and "Replace all child object permission entries with inheritable permissions etc". [at the bottom, in main panel]. DO not tick the "Only apply these permissions to objects and/or containers within this container. [when you Add a permission with the Add button].
 
-## Optimizations
+## Optimizations + Debloating
 
 * Disable Memory Compression
 * Disable Disk Drive Protection (Bitlocker)
@@ -185,7 +185,29 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 
 * Disable Unnecessary Processes
 * Disable Unnecessary Services
-* Debloat by uninstalling unnecessary software
+* Disable Unnecessary Startup Programs
+
+---
+
+* Debloat by uninstalling unnecessary software [use BOTH Add/Remove Software App & Control Panel Uninstall]
+  * Onedrive.
+  * McAfee
+  * McAfee Web Advisor
+  * Microsoft Copilot
+  * Copilot
+  * Xbox
+  * Xbox Live
+  * Microsoft Teams
+  * Microsoft Whiteboard
+  * News [if unwanted]
+  * Outlook [if unwanted]
+  * Microsoft 365 + Office
+  * Microsoft Todo
+  * Microsoft Clipchamp
+  * Smart Connect [lenovo related]
+
+---
+
 * Change Performance Settings
 * Disable Windows Features and Services [in Uninstall; like Ms Edge]
 * Disable Automatic Updates
@@ -197,7 +219,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 * Run explorer.exe with gpu rendering.
 * Battery Performance Mode to High if needed.
 * Turn off bloated software.
-* Group policy editor
+* Group policy editor [if on enterprise; otherwise use registry]
 * Control panel
 * Registry.
 * Power settings.
