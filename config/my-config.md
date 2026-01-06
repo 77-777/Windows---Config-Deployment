@@ -255,9 +255,21 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 
 ---
 
-## Data Resiliency and RAID
+## Bit rot, Data Resiliency and RAID
 
-> ZFS and ReFS
+> Bit rot affects data, when still, used, etc, and all data deteriorates, especially media which can produce artifacts, pops, cracks, distortion and so on. In more extreme failures or corruption, the data becomes unusable and must be deleted.
+
+> In some silly (yet smart) cases, you can duplicate some data on the filesystem to create a "soft-level" redundancy. Bit rot will still deteriorate the data but it will prevent situations where, one of the data completely dies, and you still have another copy to work from, even if that copy may be slightly deteriotated.
+
+> ZFS and ReFS are true data integrity solutions that require **manual/automatic** data scrubbing for truly protecting from bit rot.
+
+> By checksumming not just the metadata, but the data itself and having redundant copies internally, corruption from bit rot can be healed from the copy.
+
+> copies=2 is already pretty good, copies=3 is much more powerful.
+
+## Most Setup
+
+* Single device ZFS/ReFS with 3 redundant copies.
 
 ## ZFS
 
