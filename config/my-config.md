@@ -273,8 +273,9 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 
 ## ZFS
 
-* **vdevs** (virtual devices) [main concept] are sets of multiple physical disks.
-  * pool is constructed to have multiple vdevs.
+* zpool is constructed to have multiple vdevs.
+  * **vdevs** (virtual devices) [main concept] are sets of multiple physical disks.
+  * special vdevs [used by other vdevs within pool; NOT used by datasets]
     * datasets (special dirs) [partition analogy]
     * zvols for block devices
 
