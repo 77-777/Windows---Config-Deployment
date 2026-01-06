@@ -300,5 +300,6 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 ## Concepts
 
 > Parity - "essentially" pieces of data to reconstruct lost blocks. It's a "cheap" mirroring.
+
 > Mirror - a full redundant copy to reconstruct failures, corruption, lost data from.
 
