@@ -283,7 +283,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 
 * Storage Spaces **Pool** [full set of physical devices]
   * Virtual Disk [subset of devices from the full set with config] {aka, the "storage space"}
-    * Volumes {the partition itself}
+    * Volumes {the partition itself} [even in old fashioned approach, the partition is technically the volume having the filesystem. the "partition" actually is MBR/GPT]
       * Filesystem (ReFs)
 
 ## RAID
