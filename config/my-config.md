@@ -212,6 +212,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 * Disable Windows Features and Services [in Uninstall; like Ms Edge]
 * Disable Automatic Updates
 * Disable Windows Defender
+* Disable Smart App Control [if don't care]
 * Disable Telemetry
 * Disable other features [copilot, onedrive, etc [cortana is gone]]
 * Disable search indexer
