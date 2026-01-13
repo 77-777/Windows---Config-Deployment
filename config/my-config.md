@@ -141,6 +141,7 @@ Copy-Item -Path "C:\Users\rijndael-box\AppData\Local\YACReader" -Destination "C:
 * Have root by convention a black/blue solid wallpaper.
 * Separate your partitions from the System partition.
 * Avoid keeping your data on the machine; preferably store it on external drives or usbs.
+* **USE SNAPSHOTS. USE THEM.**
 
 ## Permissions
 
