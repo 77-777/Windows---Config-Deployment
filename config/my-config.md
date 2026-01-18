@@ -209,6 +209,12 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 
 ---
 
+  * Script to turn computer in power saving mode when locked.
+  * Script to change all browser processes to low priority.
+  * Script to handle scrubbing of mirror data on shitty NTFS.
+
+---
+
 * Change Performance Settings
 * Disable Windows Features and Services [in Uninstall; like Ms Edge]
 * Disable Automatic Updates
