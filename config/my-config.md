@@ -242,6 +242,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 * Pin to favourites frequently accessed folder locations you know of.
 * Make recycle bin ask for confirmation of deletion.
 * Expand the calendar, it's by default hiding it.
+* Go to Lockscreen settings, set picture: Turn off 3 settings; -> Windows Spotlight, Weather & More, Get fun facts, tricks, tips, etc.
 
 ## UI/UX
 
