@@ -241,6 +241,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 * Set file manager to start with devices and drives rather than Home.
 * Pin to favourites frequently accessed folder locations you know of.
 * Make recycle bin ask for confirmation of deletion.
+* Expand the calendar, it's by default hiding it.
 
 ## UI/UX
 
