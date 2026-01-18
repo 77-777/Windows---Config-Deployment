@@ -209,9 +209,9 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 
 ---
 
-  * Script to turn computer in power saving mode when locked.
-  * Script to change all browser processes to low priority.
-  * Script to handle scrubbing of mirror data on shitty NTFS.
+* Script to turn computer in power saving mode when locked.
+* Script to change all browser processes to low priority.
+* Script to handle scrubbing of mirror data on shitty NTFS.
 
 ---
 
