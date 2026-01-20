@@ -216,6 +216,7 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 ---
 
 * Change Performance Settings
+* Disable Transparency Effects [in taskbar settings] {if needed}
 * Disable Windows Features and Services [in Uninstall; like Ms Edge]
 * Disable Automatic Updates
 * Disable Windows Defender
