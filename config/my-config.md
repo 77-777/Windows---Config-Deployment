@@ -190,6 +190,10 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 
 ---
 
+* Turn off Smart App Control
+
+---
+
 * Debloat by uninstalling unnecessary software [use BOTH Add/Remove Software App & Control Panel Uninstall]
   * Onedrive.
   * McAfee
