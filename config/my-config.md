@@ -254,13 +254,14 @@ Tick the "Replace owners objects" [at the top, in main panel] and "Replace all c
 * Hide the search box in the taskbar.
 * Disable widgets to not show news icon in taskbar.
 * Align the start menu to the left.
+* Personalization -> Start [settings] -> Disable "Show Mobile Device in Start"
 * Don't set 1920x1080 resolution for desktop. Use 1600x800 and scale it to 100% instead of 125%.
 * Apply Folders View (in Folder Options, 2nd tab) to show Thumbnail (Large) View
 
 ## Privacy
 
 * Folder options - disable the three options for recently used files, and frequently used folders.
-* Personalization -> Start -> 4 options to disable here.
+* Personalization -> Start [settings] -> 4 options to disable here.
 
 ## Other
 
